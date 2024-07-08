@@ -1,0 +1,24 @@
+name: vStarter
+version: '${project.version}'
+main: me.mie.vstarter.main
+api-version: '1.20'
+commands:
+  starter:
+    description: GUI for everything a new player needs
+    usage: /<command>
+    aliases:
+      - helpme
+      - start
+  media:
+    description: Opens a GUI for socials and useful links
+    usage: /<command>
+  socials:
+    description: List of violets' socials
+    usage: /<command>
+  links:
+    description: List of violets' other useful links
+    usage: /<command>
+  wiki:
+    description: Link to player wiki
+    usage: /<command>
+

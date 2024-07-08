@@ -1,0 +1,20 @@
+join-msg: '&a&lWelcome back to the server &7%player%&a!! Good to have you here'
+
+help-when:
+  - 'Im new'
+  - "I'm new"
+  - 'How to vote'
+  - 'How do I vote'
+  - 'How to claim'
+  - 'How do I claim land'
+  - 'How do I claim'
+  - 'How do I get to end'
+  - 'How do I get to the end'
+  - 'Where is the end'
+  - 'Where are crates'
+  - 'How to tp'
+  - 'go to world'
+  - 'How do I get out of spawn'
+  - 'Get out of spawn'
+  - "I'm stuck"
+  - 'Help'
