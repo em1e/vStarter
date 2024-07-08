@@ -6,7 +6,7 @@
 <br>
 
 ## 🛠️ What is vStarter?
-vStarter is a simple smp plugin, which is used to enhance the the experience of new players. It guides them on how to get started, providing them socials and other links to join and understand the community better. 
+vStarter is a simple smp plugin, which is used to enhance the the experience of new players. It guides them on how to get started, providing them socials and other links to join and understand the community better. It also oversees chat to see if a player needs help with anything!
 
 <br>
 
